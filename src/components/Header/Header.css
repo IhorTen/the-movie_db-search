@@ -1,0 +1,53 @@
+.HeaderBody {
+    display: flex;
+    color: white;
+    background: #6e6c6c;
+    height: 120px;
+}
+
+.HeaderTitle {
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+
+.HeaderInputSearch {
+    width: 99%;
+    padding: 5px;
+    font-size: 16px;
+    border: 2px solid rgba(110, 108, 108, 0.61);
+}
+
+.HeaderInputSearch:focus {
+    outline: none;
+    border-color: rgba(35, 133, 58, 0.51);
+
+}
+
+.HeaderInputSearch:hover {
+    border-color: rgba(35, 133, 58, 0.51);
+
+}
+
+select {
+    padding: 5px 5px 5px 5px;
+    border: 2px solid #6e6c6c;
+    font-size: 16px;
+    width: 12rem;
+    border-radius: 3px;
+    color: #6e6c6c;
+
+}
+
+select:hover,:focus {
+    outline: none;
+    border-color: rgba(35, 133, 58, 0.51);
+
+}
+
+option:hover {
+    border: 3px solid;
+}
+
+option {
+    color: #000000;
+}
