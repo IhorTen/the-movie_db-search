@@ -2,7 +2,7 @@
   "name": "the-movie_db-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ihorten.github.io/the-movie_db-search",
+  "homepage": "https://ihorten.github.io/the-movie_db-search/",
   "dependencies": {
     "eslint-config-airbnb": "^17.1.0",
     "gh-pages": "^2.0.1",
