@@ -1,0 +1,14 @@
+{
+  "main.css": "/the-movie_db-search/static/css/main.f71f6b9b.chunk.css",
+  "main.js": "/the-movie_db-search/static/js/main.7ab9b464.chunk.js",
+  "main.js.map": "/the-movie_db-search/static/js/main.7ab9b464.chunk.js.map",
+  "runtime~main.js": "/the-movie_db-search/static/js/runtime~main.d571b734.js",
+  "runtime~main.js.map": "/the-movie_db-search/static/js/runtime~main.d571b734.js.map",
+  "static/js/2.0f1b171b.chunk.js": "/the-movie_db-search/static/js/2.0f1b171b.chunk.js",
+  "static/js/2.0f1b171b.chunk.js.map": "/the-movie_db-search/static/js/2.0f1b171b.chunk.js.map",
+  "index.html": "/the-movie_db-search/index.html",
+  "precache-manifest.71982b525223d6cd6d9c0f05b31dc801.js": "/the-movie_db-search/precache-manifest.71982b525223d6cd6d9c0f05b31dc801.js",
+  "service-worker.js": "/the-movie_db-search/service-worker.js",
+  "static/css/main.f71f6b9b.chunk.css.map": "/the-movie_db-search/static/css/main.f71f6b9b.chunk.css.map",
+  "static/media/tmdb-search-logo.svg": "/the-movie_db-search/static/media/tmdb-search-logo.02a9430b.svg"
+}
