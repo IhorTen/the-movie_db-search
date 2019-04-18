@@ -32,23 +32,6 @@ const Header = (props) => {
                         )
                     })}
                 </select>
-                {/*<select*/}
-                    {/*id='Date'*/}
-                    {/*onChange={props.genreSearch}*/}
-                {/*>*/}
-                    {/*<option style={{color:'#6e6c6c'}}> Choose genre...</option>*/}
-                    {/*{props.genres.map((genre, index) => {*/}
-                        {/*return(*/}
-                            {/*<option*/}
-                                {/*className='scrollList'*/}
-                                {/*value={genre.id}*/}
-                                {/*key={index}*/}
-                            {/*>{genre.name}*/}
-                            {/*</option>*/}
-                        {/*)*/}
-                    {/*})}*/}
-                {/*</select><br/>*/}
-
             </div>
         )
 };
